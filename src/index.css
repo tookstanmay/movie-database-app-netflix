@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    -webkit-tap-highlight-color:  transparent; 
+    background-color: #000000;
+    font-family: 'Lato', 'Raleway', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
